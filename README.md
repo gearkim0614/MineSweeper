@@ -18,7 +18,8 @@ the game is to infer where the mines are and to place flags on those squares.
 || Baseline Program | My Program |
 | --- | --- | --- |
 | Static code size: | 120 | 107 |
-| Dynamic instruction length: | 22,195 | 195 |
-| Storage required: | 40 | 9 |
+| Dynamic instruction length: | 22,195 | 40,000 |
+| Storage required: | 40 | 27 |
+| Grade: | 100% | 100%+ |
 
 ![Minesweep](https://user-images.githubusercontent.com/32786111/64939392-d3803200-d82e-11e9-82aa-7295bdf387fe.JPG)
