@@ -23,7 +23,6 @@ the game is to infer where the mines are and to place flags on those squares.
 | Static code size: | 120 | 107 |
 | Dynamic instruction length: | 22,195 | 40,000 |
 | Storage required: | 40 | 27 |
-| Grade: | 100% | 100%+ |
 
 ![Minesweep](https://user-images.githubusercontent.com/32786111/64939954-a46ac000-d830-11e9-9c95-9a1924e05843.JPG)
 
