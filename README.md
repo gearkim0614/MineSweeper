@@ -25,7 +25,7 @@ the game is to infer where the mines are and to place flags on those squares.
 | Storage required: | 40 | 27 |
 | Grade: | 100% | 100%+ |
 
-![Minesweep](https://user-images.githubusercontent.com/32786111/64939392-d3803200-d82e-11e9-82aa-7295bdf387fe.JPG)
+![Minesweep](https://user-images.githubusercontent.com/32786111/64939954-a46ac000-d830-11e9-9c95-9a1924e05843.JPG)
 
 # Disclaimer
 This is for education purpose only. Actual code is not posted in compliance with Georgia Tech's Honor Code. All credit goes to Professor Linda Wills. https://www.ece.gatech.edu/faculty-staff-directory/linda-m-wills
